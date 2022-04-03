@@ -1,0 +1,23 @@
+.tituloPrincipal{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.body{
+    background-image: url("Aesthetic\ macbook\ wallpaper.jfif");
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    height: 100vh;
+}
+*{
+    margin: 0px;
+}
+.cuadroPrincipal{
+    border: 5px solid palevioletred;
+    width: 50%;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+}
+
